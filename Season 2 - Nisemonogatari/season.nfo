@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<season>
+  <plot />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-03-28 17:04:34</dateadded>
+  <title>Season 2 - Nisemonogatari</title>
+  <year>2022</year>
+  <sorttitle>Season 2 - Nisemonogatari</sorttitle>
+  <tvdbid>481207</tvdbid>
+  <premiered>2022-09-24</premiered>
+  <releasedate>2022-09-24</releasedate>
+  <art>
+    <poster>D:\Jellyfin\Anime\Monogatari\season02-poster.jpg</poster>
+  </art>
+  <seasonnumber>2</seasonnumber>
+  <uniqueid type="tvdb">481207</uniqueid>
+</season>

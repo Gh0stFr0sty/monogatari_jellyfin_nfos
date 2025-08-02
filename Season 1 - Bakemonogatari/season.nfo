@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<season>
+  <plot />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-03-28 17:04:34</dateadded>
+  <title>Season 1 - Bakemonogatari</title>
+  <year>2022</year>
+  <sorttitle>Season 1 - Bakemonogatari</sorttitle>
+  <tvdbid>86961</tvdbid>
+  <premiered>2022-05-08</premiered>
+  <releasedate>2022-05-08</releasedate>
+  <art>
+    <poster>D:\Jellyfin\Anime\Monogatari\season01-poster.jpg</poster>
+  </art>
+  <seasonnumber>1</seasonnumber>
+  <uniqueid type="tvdb">86961</uniqueid>
+</season>

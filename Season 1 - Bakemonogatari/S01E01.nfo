@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>After Koyomi Araragi catches his classmate, Hitagi Senjougahara, when she fell down some stairs, he makes a strange discovery about her. Trying to keep her secret Hitagi attacks Koyomi. However, he has a secret of his own and might be able to help her.</plot>
+  <lockdata>true</lockdata>
+  <dateadded>2025-03-28 16:50:36</dateadded>
+  <title>Hitagi Crab - Part 1</title>
+  <director>Yukihiro Miyamoto</director>
+  <director>Tatsuya Oishi</director>
+  <rating>6.3</rating>
+  <year>2022</year>
+  <sorttitle>Hitagi Crab - Part 1</sorttitle>
+  <imdbid>tt1483868</imdbid>
+  <runtime>26</runtime>
+  <anidbid>151362</anidbid>
+  <art>
+    <poster>D:\Jellyfin\Anime\Monogatari\Season 1 - Bakemonogatari\S01E01-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Hiroshi Kamiya</name>
+    <role>Koyomi Araragi (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Chiwa Saito</name>
+    <role>Hitagi Senjougahara (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Maaya Sakamoto</name>
+    <role>Shinobu Oshino / Kiss-shot Acerola-orion Heart-under-blade</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Satsuki Yukino</name>
+    <role>Izuko Gaen (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Yui Horie</name>
+    <role>Tsubasa Hanekawa / Black Hanekawa (voice)</role>
+    <type>GuestStar</type>
+  </actor>
+  <actor>
+    <name>Takahiro Sakurai</name>
+    <role>Memo Oshino (voice)</role>
+    <type>GuestStar</type>
+  </actor>
+  <actor>
+    <name>Eri Kitamura</name>
+    <role>Karen Araragi (voice)</role>
+    <type>GuestStar</type>
+  </actor>
+  <actor>
+    <name>Yuka Iguchi</name>
+    <role>Tsukihi Araragi (voice)</role>
+    <type>GuestStar</type>
+  </actor>
+  <showtitle>Monogatari</showtitle>
+  <episode>1</episode>
+  <season>1</season>
+  <aired>2022-05-08</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>av1</codec>
+        <micodec>av1</micodec>
+        <bitrate>1934914</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>25</duration>
+        <durationinseconds>1557</durationinseconds>
+      </video>
+      <audio>
+        <codec>opus</codec>
+        <micodec>opus</micodec>
+        <bitrate>131295</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>opus</codec>
+        <micodec>opus</micodec>
+        <bitrate>119435</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <width>0</width>
+        <height>0</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <width>0</width>
+        <height>0</height>
+        <language>enm</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <width>0</width>
+        <height>0</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <thumb>https://image.tmdb.org/t/p/w454_and_h254_bestv2/v3y4HkePhLeVb4LtOQTdyELO3x2.jpg</thumb>
+</episodedetails>

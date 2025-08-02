@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>The first day of the second trimester, Tsubasa Hanekawa chats with the ghost girl Mayoi Hachikuji en route to school. Right afterwards, she witnesses a giant “tiger” apparition. Later that day, her house completely burns down from a fire.</plot>
+  <lockdata>true</lockdata>
+  <dateadded>2025-03-28 16:50:36</dateadded>
+  <title>Tsubasa Tiger, Part 1</title>
+  <director>Tomoyuki Itamura</director>
+  <director>Kazuki Oohashi</director>
+  <writer>Yukto Kizawa</writer>
+  <credits>Yukto Kizawa</credits>
+  <rating>7.2</rating>
+  <year>2022</year>
+  <sorttitle>Tsubasa Tiger, Part 1</sorttitle>
+  <runtime>24</runtime>
+  <anidbid>151362</anidbid>
+  <art>
+    <poster>C:\ProgramData\Jellyfin\Server\metadata\library\c1\c1b0526de03ddc777fc36c0cc69d4a11\poster.jpg</poster>
+  </art>
+  <showtitle>Monogatari</showtitle>
+  <episode>1</episode>
+  <season>11</season>
+  <aired>2022-09-24</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>av1</codec>
+        <micodec>av1</micodec>
+        <bitrate>1701936</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>24</duration>
+        <durationinseconds>1453</durationinseconds>
+      </video>
+      <audio>
+        <codec>opus</codec>
+        <micodec>opus</micodec>
+        <bitrate>128043</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <width>0</width>
+        <height>0</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <width>0</width>
+        <height>0</height>
+        <language>enm</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <uniqueid type="anidb">151362</uniqueid>
+  <thumb>https://image.tmdb.org/t/p/w320_and_h180_bestv2/unJbIowRyURiaO7TUm18MODTBZP.jpg</thumb>
+</episodedetails>

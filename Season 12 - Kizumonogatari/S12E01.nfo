@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot />
+  <lockdata>false</lockdata>
+  <dateadded>2025-03-28 17:47:00</dateadded>
+  <title>Tekketsu-hen</title>
+  <year>2022</year>
+  <sorttitle>Tsubasa Tiger, Part 1</sorttitle>
+  <runtime>64</runtime>
+  <anidbid>151362</anidbid>
+  <art>
+    <poster>D:\Jellyfin\Anime\Monogatari\Season 12 - Kizumonogatari\S12E01-thumb.jpg</poster>
+  </art>
+  <showtitle>Monogatari</showtitle>
+  <episode>1</episode>
+  <season>12</season>
+  <aired>2022-05-10</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>av1</codec>
+        <micodec>av1</micodec>
+        <bitrate>1516104</bitrate>
+        <width>1920</width>
+        <height>816</height>
+        <aspect>2.35:1</aspect>
+        <aspectratio>2.35:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>63</duration>
+        <durationinseconds>3810</durationinseconds>
+      </video>
+      <audio>
+        <codec>opus</codec>
+        <micodec>opus</micodec>
+        <bitrate>124453</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <width>0</width>
+        <height>0</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <width>0</width>
+        <height>0</height>
+        <language>enm</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <thumb>https://image.tmdb.org/t/p/w454_and_h254_bestv2/bOjVLlmse5j8pZtPuwN6HolKaSI.jpg</thumb>
+</episodedetails>

@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tvshow>
+  <plot>Araragi Koyomi is a third year high school student who is almost human again after having briefly become a vampire. One day, a classmate named Senjougahara Hitagi, who infamously never talks to anyone, falls down the stairs into Koyomi's arms. He discovers that Hitagi weighs next to nothing, in defiance of physics and common sense alike. Despite being threatened by her, Koyomi offers her help, and introduces her to Oshino Meme, a middle-aged homeless man who helped him stop being a vampire.</plot>
+  <outline>Araragi Koyomi is a third year high school student who is almost human again after having briefly become a vampire. One day, a classmate named Senjougahara Hitagi, who infamously never talks to anyone, falls down the stairs into Koyomi's arms. He discovers that Hitagi weighs next to nothing, in defiance of physics and common sense alike. Despite being threatened by her, Koyomi offers her help, and introduces her to Oshino Meme, a middle-aged homeless man who helped him stop being a vampire.</outline>
+  <lockdata>true</lockdata>
+  <dateadded>2025-03-28 16:50:34</dateadded>
+  <title>Monogatari</title>
+  <originaltitle>化物語</originaltitle>
+  <rating>8.1</rating>
+  <year>2009</year>
+  <sorttitle>Monogatari</sorttitle>
+  <mpaa>16</mpaa>
+  <premiered>2009-07-03</premiered>
+  <releasedate>2009-07-03</releasedate>
+  <enddate>2024-12-29</enddate>
+  <displayorder>aired</displayorder>
+  <runtime>25</runtime>
+  <genre>Fantasy</genre>
+  <genre>Drama</genre>
+  <genre>Comedy</genre>
+  <genre>Animation</genre>
+  <genre>Action</genre>
+  <genre>Anime</genre>
+  <genre>Romance</genre>
+  <studio>Tokyo MX</studio>
+  <studio>Abema TV</studio>
+  <studio>SHAFT</studio>
+  <studio>Aniplex</studio>
+  <anidbid>9183</anidbid>
+  <art>
+    <poster>D:\Jellyfin\Anime\Monogatari\poster.jpg</poster>
+    <fanart>D:\Jellyfin\Anime\Monogatari\backdrop.jpg</fanart>
+  </art>
+  <actor>
+    <name>Hiroshi Kamiya</name>
+    <role>Koyomi Araragi</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Chiwa Saito</name>
+    <role>Hitagi Senjougahara</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Emiri Katou</name>
+    <role>Mayoi Hachikuji</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Miyuki Sawashiro</name>
+    <role>Suruga Kanbaru</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Kana Hanazawa</name>
+    <role>Nadeko Sengoku</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Yui Horie</name>
+    <role>Tsubasa Hanekawa</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Takahiro Sakurai</name>
+    <role>Meme Oshino</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Maaya Sakamoto</name>
+    <role>Shinobu Oshino</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Eri Kitamura</name>
+    <role>Karen Araragi</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Yuka Iguchi</name>
+    <role>Tsukihi Araragi</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Saori Hayami</name>
+    <role>Yotsugi Ononoki</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Satsuki Yukino</name>
+    <role>Izuko Gaen</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Kaori Mizuhashi</name>
+    <role>Ougi Oshino</role>
+    <type>Actor</type>
+  </actor>
+  <season>-1</season>
+  <episode>-1</episode>
+  <status>Ended</status>
+  <eidrid>10.5240/7B77-C753-1928-B435-9683-9</eidrid>
+  <redditid>araragi/</redditid>
+  <wikipediaid>Monogatari_(series)</wikipediaid>
+  <myanimelistid>17074</myanimelistid>
+</tvshow>

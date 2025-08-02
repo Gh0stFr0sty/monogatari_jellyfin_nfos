@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot />
+  <lockdata>false</lockdata>
+  <dateadded>2025-03-28 17:47:00</dateadded>
+  <title>A Cruel Fairy Tale: The Beautiful Princess</title>
+  <year>2025</year>
+  <sorttitle>Tsubasa Tiger, Part 1</sorttitle>
+  <tvdbid>10601322</tvdbid>
+  <runtime>13</runtime>
+  <anidbid>151362</anidbid>
+  <art>
+    <poster>D:\Jellyfin\Anime\Monogatari\Season 17 - Wazamonogatari\s17e01-thumb.jpg</poster>
+  </art>
+  <showtitle>Monogatari</showtitle>
+  <episode>1</episode>
+  <season>17</season>
+  <aired>2025-03-28</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>8111393</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>12</duration>
+        <durationinseconds>750</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>128000</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <width>0</width>
+        <height>0</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <uniqueid type="tvdb">10601322</uniqueid>
+  <thumb aspect="thumb">https://artworks.thetvdb.com/banners/v4/episode/10641492/screencap/66c1c71f13452.jpg</thumb>
+</episodedetails>

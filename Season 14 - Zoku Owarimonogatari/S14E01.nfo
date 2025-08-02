@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot />
+  <lockdata>false</lockdata>
+  <dateadded>2025-03-28 17:47:00</dateadded>
+  <title>Koyomi Reverse, Part One</title>
+  <year>2022</year>
+  <sorttitle>Tsubasa Tiger, Part 1</sorttitle>
+  <runtime>25</runtime>
+  <anidbid>151362</anidbid>
+  <art>
+    <poster>D:\Jellyfin\Anime\Monogatari\Season 14 - Zoku Owarimonogatari\S14E01-thumb.jpg</poster>
+  </art>
+  <showtitle>Monogatari</showtitle>
+  <episode>1</episode>
+  <season>14</season>
+  <aired>2022-09-24</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>av1</codec>
+        <micodec>av1</micodec>
+        <bitrate>2098374</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>24</duration>
+        <durationinseconds>1478</durationinseconds>
+      </video>
+      <audio>
+        <codec>opus</codec>
+        <micodec>opus</micodec>
+        <bitrate>128892</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <width>0</width>
+        <height>0</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <width>0</width>
+        <height>0</height>
+        <language>enm</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <thumb>https://image.tmdb.org/t/p/w1000_and_h563_face/3VUCtO3fyfItFFZyUI8ySIyKnBh.jpg</thumb>
+</episodedetails>

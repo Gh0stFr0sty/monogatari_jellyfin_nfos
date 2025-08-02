@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>Araragi finds himself chained up in Oshino’s old hideout by Senjougahara, having been kidnapped by her. The scene then shifts to a hot summer’s day, where he ponders on what to do with his unstable vampirism and whether he should tell his two sisters, Karen and Tsukihi about oddities. Deciding to meet up with Sengoku, he heads of to her house but spots Hachikuji Mayoi and stops to chat (molest) to her.</plot>
+  <lockdata>true</lockdata>
+  <dateadded>2025-03-28 16:50:36</dateadded>
+  <title>Karen Bee - Part 1</title>
+  <director>Tomoyuki Itamura</director>
+  <rating>6.9</rating>
+  <year>2022</year>
+  <sorttitle>Karen Bee - Part 1</sorttitle>
+  <imdbid>tt2222789</imdbid>
+  <runtime>26</runtime>
+  <anidbid>151362</anidbid>
+  <art>
+    <poster>D:\Jellyfin\Anime\Monogatari\Season 2 - Nisemonogatari\S02E01-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Hiroshi Kamiya</name>
+    <role>Koyomi Araragi (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Chiwa Saito</name>
+    <role>Hitagi Senjougahara (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Yui Horie</name>
+    <role>Tsubasa Hanekawa / Black Hanekawa (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Maaya Sakamoto</name>
+    <role>Shinobu Oshino / Kiss-shot Acerola-orion Heart-under-blade</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Shin-ichiro Miki</name>
+    <role>Deishuu Kaiki (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Satsuki Yukino</name>
+    <role>Izuko Gaen (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Ryoko Shiraishi</name>
+    <role>Yozuru Kagenui (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Miyuki Sawashiro</name>
+    <role>Suruga Kanbaru (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Saori Hayami</name>
+    <role>Yotsugi Ononoki (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Emiri Kato</name>
+    <role>Mayoi Hachikuji (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Kana Hanazawa</name>
+    <role>Nadeko Sengoku (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Eri Kitamura</name>
+    <role>Karen Araragi (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Yuka Iguchi</name>
+    <role>Tsukihi Araragi (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <showtitle>Monogatari</showtitle>
+  <episode>1</episode>
+  <season>2</season>
+  <aired>2022-09-24</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>av1</codec>
+        <micodec>av1</micodec>
+        <bitrate>1894669</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>26</duration>
+        <durationinseconds>1577</durationinseconds>
+      </video>
+      <audio>
+        <codec>opus</codec>
+        <micodec>opus</micodec>
+        <bitrate>127633</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <width>0</width>
+        <height>0</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <width>0</width>
+        <height>0</height>
+        <language>enm</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <thumb>https://image.tmdb.org/t/p/w320_and_h180_bestv2/jfQu9sJq1xnrVAzAi6YOojs2E8M.jpg</thumb>
+</episodedetails>
